@@ -2,6 +2,8 @@
 
 ![Preview](./.github/Preview.png)
 
+[🔗 Clique aqui para acessar!](https://caminsk.github.io/JavaScript/)
+
 ## Sobre 💡
 
 > Pequeno layout feito pra treinamento. O objetivo é que de acordo com o período do dia (manhâ, tarde e noite) a mensagem altere automaticamente juntamente com a imagem e também cor de fundo.
